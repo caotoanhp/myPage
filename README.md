@@ -1,3 +1,3 @@
 # myPage
 Something changed!
-Visit [chimsedinang.com](chimsedinang.com)
+Visit [chimsedinang.com](http://chimsedinang.com)
